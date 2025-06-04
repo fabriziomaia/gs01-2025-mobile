@@ -50,10 +50,10 @@ O aplicativo possui as seguintes funcionalidades principais:
 
 1. Certifique-se de ter o Node.js e o npm instalados
 2. Instale o Expo CLI: `npm install -g expo-cli`
-3. Clone o repositório
-4. Navegue até a pasta do projeto: `cd mobile_dev_project`
-5. Instale as dependências: `npm install`
-6. Inicie o aplicativo: `npm start`
+3. Instale as dependências: `npm install`
+4. Atualize para a última versão do Expo: `npx expo install expo@latest`
+5. Atualize as outras dependências: `npx expo install --fix` 
+6. Inicie o aplicativo: `npx expo start`
 7. Use o aplicativo Expo Go no seu dispositivo móvel para escanear o QR code ou use um emulador
 
 ## Armazenamento de Dados
